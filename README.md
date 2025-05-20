@@ -1,7 +1,7 @@
 # Awesome-Compositional-Zero-Shot-Learning-Papers
 Awesome Compositional Zero-shot Learning papers.
 Generally, composition zero-shot learning methods are divided into three different classes: disentangled CZSL methods, composed CZSL methods and CLIP-based methods, distinguished by the distribution of attributes and objects. Due to the limit of my comprehension, the following classifications are for reference only, papers are the key points.：）
-## Paper List
+# Paper List Sorted by Type
 - [Disentangled CZSL Methods](#Disentangled-CZSL-Methods)
 - [Composed CZSL Methods](#Composed-CZSL-Methods)
 - [CLIP-based CZSL Methods](#CLIP-based-CZSL-Methods)
@@ -49,3 +49,6 @@ Generally, composition zero-shot learning methods are divided into three differe
 - **Hierarchical Prompt Learning for Compositional Zero-Shot Recognition** (2024 AAAI), Chenyi Jiang et al. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/28026/28065)
 - **Learning to Compose Soft Prompts for Compositional Zero-Shot Learning(CSP)** (2023 IJCAI), Henan Wang et al. [[pdf]](https://www.ijcai.org/proceedings/2023/0163.pdf)
 - **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning(DFSP)** (2023 CVPR), Xiaocheng Lu et al. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+
+
+# Paper List Sorted by Year
