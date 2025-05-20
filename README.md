@@ -37,6 +37,7 @@ Generally, composition zero-shot learning methods are divided into three differe
 - **Task-Driven Modular Networks for Zero-Shot Compositional Learning(TMN)** (2019 ICCV), Senthil Purushwalkamet al. [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf)
 
 ### CLIP-based CZSL Methods
+- **Learning Clustering-based Prototypes for Compositional Zero-shot Learning(CLUSPRO)** (2025 ICLR), Hongyu Qu et al. [[pdf]](https://arxiv.org/pdf/2502.06501v2)
 - **Prompting language-informed distribution for compositional zero-shot learning** (2024 ECCV), Wentao Bao et al. [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02160.pdf)
 - **MRSP: Learn Multi-representations of Single Primitive for Compositional Zero-Shot Learning** (2024 ECCV), Dongyao Jiang et al. [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08153.pdf)
 - **Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination** (2024 TPAMI), Chenyi Jiang et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10737702)
@@ -52,6 +53,7 @@ Generally, composition zero-shot learning methods are divided into three differe
 
 
 # Paper List Sorted by Year
+- **Learning Clustering-based Prototypes for Compositional Zero-shot Learning(CLUSPRO)** (2025 ICLR), Hongyu Qu et al. [[pdf]](https://arxiv.org/pdf/2502.06501v2)
 - **Prompting language-informed distribution for compositional zero-shot learning** (2024 ECCV), Wentao Bao et al. [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02160.pdf)
 - **MRSP: Learn Multi-representations of Single Primitive for Compositional Zero-Shot Learning** (2024 ECCV), Dongyao Jiang et al. [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08153.pdf)
 - **Imaginary-Connected Embedding in Complex Space for Unseen Attribute-Object Discrimination** (2024 TPAMI), Chenyi Jiang et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10737702)
